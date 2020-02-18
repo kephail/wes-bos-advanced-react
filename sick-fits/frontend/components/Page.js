@@ -1,6 +1,6 @@
+import React, { Component } from 'react';
 import styled, { ThemeProvider, injectGlobal } from 'styled-components';
 
-import React, { Component } from 'react';
 import Header from '../components/Header';
 import Meta from '../components/Meta';
 
